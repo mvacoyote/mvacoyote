@@ -25,21 +25,21 @@ Geographer and GIS Specialist, specialised in integrated land monitoring and dat
 ### ⚙️ Technologies & Tools
 
 **Programming Languages:**
-- ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) **Advanced**
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) **Advanced**
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) **Intermediate**
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) **Advanced**
-- ![Arcade](https://img.shields.io/badge/-Arcade%20(Esri)-C32630?style=flat&logo=arcgis) **Intermediate**
+- ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) 
+- ![Arcade](https://img.shields.io/badge/-Arcade%20(Esri)-C32630?style=flat&logo=arcgis)
 
 **Software:**
-- ![ArcGIS](https://img.shields.io/badge/-ArcGIS-007ACC?style=flat&logo=arcgis&logoColor=white) ![QGIS](https://img.shields.io/badge/-QGIS-3BAB36?style=flat&logo=qgis&logoColor=white) ![ENVI](https://img.shields.io/badge/-ENVI-FF0000?style=flat) **GIS & Remote Sensing**
-- ![SPSS](https://img.shields.io/badge/-SPSS-003399?style=flat) ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office) **Data Analysis**
-- ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white) ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white) **IDE**
+- ![ArcGIS](https://img.shields.io/badge/-ArcGIS-007ACC?style=flat&logo=arcgis&logoColor=white) ![QGIS](https://img.shields.io/badge/-QGIS-3BAB36?style=flat&logo=qgis&logoColor=white) ![ENVI](https://img.shields.io/badge/-ENVI-FF0000?style=flat)
+- ![SPSS](https://img.shields.io/badge/-SPSS-003399?style=flat) ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office)
+- ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white) ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
 
 **Platforms:**
 - ![Google Earth Engine](https://img.shields.io/badge/-Google%20Earth%20Engine-34A853?style=flat&logo=google-earth) ![ArcGIS StoryMaps](https://img.shields.io/badge/-ArcGIS%20StoryMaps-007ACC?style=flat&logo=arcgis) ![ESRI Dashboard](https://img.shields.io/badge/-ESRI%20Dashboard-007ACC?style=flat&logo=arcgis)
 - ![Experience Builder](https://img.shields.io/badge/-ArcGIS%20Experience%20Builder-007ACC?style=flat&logo=arcgis) ![Survey123](https://img.shields.io/badge/-Survey123%20for%20ArcGIS-34A853?style=flat&logo=arcgis) ![Workforce](https://img.shields.io/badge/-ESRI%20Workforce-007ACC?style=flat&logo=arcgis)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) **Development & Version Control**
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
