@@ -6,7 +6,7 @@
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/@mvacoyote)
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://buymeacoffee.com/mvacoyote)
 
-I’m a passionate Geographer and GIS Scientist, dedicated to exploring and understanding the world through spatial analysis, remote sensing and geographic information systems. 
+Geographer and GIS Specialist, specialised in integrated land monitoring and data science. Proficient in programming, data analysis, and spatial data visualisation. Expertise includes assessing land change dynamics, integrating Earth observation data, and modelling the impacts of climate and human activities on ecosystems. Adept in disaster management, utilising advanced spatial data analysis techniques to inform and optimise response strategies. Demonstrated capability in data science, making me well suited for roles requiring strong analytical and technical skills.
 
 ---
 
@@ -37,7 +37,6 @@ I’m a passionate Geographer and GIS Scientist, dedicated to exploring and unde
 - **IDE**: Visual Studio, PyCharm, RStudio
 
 **Platforms:**
-- **Cloud & Collaboration**: Google Drive, Azure
 - **Geospatial Platforms**: Google Earth Engine, ArcGIS StoryMaps, ESRI Dashboard, ArcGIS Experience Builder, Survey123 for ArcGIS, ESRI Workforce, ESRI Hub
 - **Development & Version Control**: GitHub, Jupyter Notebook
 
