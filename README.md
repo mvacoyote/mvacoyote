@@ -51,7 +51,6 @@ Geographer and GIS Specialist, specialised in integrated land monitoring and dat
 - 🤔 I’m looking for help with integrating AI into geospatial data analysis.
 - 💬 Ask me about GIS, remote sensing, and geography.
 - 📫 How to reach me: [Email](mailto:mvacoyote@gmail.com)
-- 😄 Pronouns: She/Her
 
 ---
 
